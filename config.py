@@ -1,0 +1,3 @@
+openai_api='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'
+serp_api='ecc4f3aca231a20e10ca306dabd979cda7fb3bc40d27f2f0088cff0e9eb78a34'
+Bard_api='Xwgjg2MZKtiTZ2RnhBUQEf336CVTQhUuRpHI2dGRPsjnU0lXIZeX_4n6sIYpSKRmu1Iv4A.'
